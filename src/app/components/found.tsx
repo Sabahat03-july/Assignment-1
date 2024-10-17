@@ -13,7 +13,6 @@ const Found = () => {
       );
     
     
-    export default Found;
     </div>
   )
 }
